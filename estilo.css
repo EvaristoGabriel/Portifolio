@@ -189,3 +189,10 @@ ul, ol {
     font-size: 24px;
 }
 
+footer {
+    background-color: #49eed8;
+    color: #000000;
+    padding: 57.6px;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
