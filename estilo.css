@@ -1,0 +1,191 @@
+
+h1,h2,h3,p  {
+    margin: 0;
+}
+
+p {
+    margin-left: 2px;
+    font-size: 20px;
+}
+
+h2,h3 {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    background-color: #E5E5E5;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 16px 64px;
+}
+
+main {
+    padding: 0px 70px;
+    display: flex;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+.t60 {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.imagem {
+    width: 150px;
+    border: 4px solid #49eed8;
+    border-radius: 50%;
+    margin-bottom: -80px;
+    margin-right: 10px;
+}
+
+.cabecalho {
+    display: inline-block;
+    padding-bottom: 16px;
+}
+
+.colmenor {
+    margin-top: 70px;
+    width: 200px;
+}
+
+.linha {
+    width: 50px;
+    border: 1px solid;
+    margin-top: 2px;
+}
+
+.experiencias .linha {
+    border-color: #4200ff;
+}
+
+.formacao .linha {
+    border-color: #cedb10;
+}
+.curso .linha {
+    border-color: #cc2d2d;
+}
+
+.conteudo {
+    display: inline-block;
+}
+
+.periodo {
+    font-size: 15px;
+}
+
+.colmenor img {
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    margin-right: 3px;
+}
+
+.colmenor li {
+    margin-top: 20px;
+    display: flex;
+}
+
+.colmaior {
+    margin-left: 24px;
+    
+}
+
+.colmaior h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 16px;
+}
+.habilidades, .project {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hab {
+    background-color: white;
+    border-radius: 8px;
+    padding: 24px;
+    margin: 10px;
+    width: 300px;
+}
+
+.hab h3 {
+    font-size: 30px;
+}
+
+.hab p {
+    font-size: 20px;
+}
+
+.progresso {
+    width: 80%;
+    display: flex;
+}
+
+.barra {
+    width: 20%;
+    height: 4px;
+    background-color: blue;
+    margin-top: 6px;
+}
+
+.in {
+    opacity: 0.2;
+}
+
+.hab li {
+    margin-top: 10px;
+}
+
+.hab li:first-child {
+    margin-top: 0;
+}
+
+.project {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.projeto a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #4200ff;
+    color: white;
+    padding: 8px 24px;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 4px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 15px;
+    margin: 5px;
+}
+.imagemprojeto {
+    width: 200px;
+    padding: 8px 50px;
+}
+.projeto {
+    background-color: white;
+    border-radius: 8px;
+    padding: 24px;
+    margin: 10px;
+    width: 300px;
+}
+
+.projeto p {
+    font: normal;
+    font-size: 15px;
+
+}
+
+.projeto h3 {
+    font-size: 24px;
+}
+
