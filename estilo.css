@@ -49,6 +49,11 @@ ol {
   margin-bottom: -80px;
   margin-right: 10px;
 }
+.imagemLogo {
+  width: 200px;
+  margin-bottom: -50px;
+  float: right;
+}
 .fundo{
     background-color: #ffff;
 }
